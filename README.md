@@ -1,4 +1,4 @@
-# Image_caption_generator
+# Image_caption_generator and Speech Generation for Blind Visualization
 The goal of image captioning is to convert a given input image into a natural language description.
 It involves the concept of computer vision and Natural Language Process to recognize the context of images and describe them in natural language like English.
 
